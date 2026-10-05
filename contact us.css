@@ -3,6 +3,29 @@
     background-color: #c4e0a3;
 }
 
+.header_text{
+    display: flex;
+    justify-content: center;
+}
+.form form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.button{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 150px;
+    justify-content: space-around;
+}
+.button button{
+    height:40px;
+    border-radius: 5px;
+    background-color: #8bc34b;
+
+}
 
 .navbar{
     display: flex;
